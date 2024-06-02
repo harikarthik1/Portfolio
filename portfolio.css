@@ -1,0 +1,77 @@
+.nav-bg{
+    background-image:radial-gradient(#143ca8,#7593e6); 
+}
+.home-section{
+    padding:48px;
+}
+
+.introduction-heading{
+    font-size:45px;
+}
+.my-image{
+    height:250px;
+    border-radius: 25px;
+    margin-left:8px;
+}
+.introduction-paragraph{
+    font-size:20px;
+}
+.about-section{
+    background-image:radial-gradient(#143ca8,#7593e6);
+    color:white;
+    padding:32px;
+}
+.about-img{
+    height:200px;
+}
+.skills-section{
+    margin-top:32px;
+}
+.skill{
+    background-image:radial-gradient(#143ca8,#7593e6);
+    border-radius: 15px;
+}
+.skill:hover{
+    box-shadow: 5px 2px 30px grey;
+}
+.skill-heading{
+    font-size:25px;
+}
+.projects-section{
+    background-image:radial-gradient(#143ca8,#7593e6);
+    padding:32px;
+}
+.project{
+    background-color:#ffffff;
+    border-radius:30px;
+    padding: 16px;
+}
+.project-img{
+   border-radius:15px;
+}
+.project-heading{
+    font-size:30px;
+}
+.project-paragraph{
+    color:#9e9d9b;
+}
+.read-more{
+    color:#143ca8;
+}
+.read-more:hover{
+    font-weight:500;
+    text-decoration: underline;
+}
+.follow-section{
+    background-color:#161a1f;
+    padding:25px;
+}
+.copyright{
+    margin-top:25px;
+    background-color:#2c2d30;
+    padding:10px;
+    border-radius:6px;
+}
+.copyright-description{
+    color:white;
+}
